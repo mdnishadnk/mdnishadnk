@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="devops.jpg" alt="DevOps Tech Stack Banner" width="100%">
+</div>
+
 # Hi there, I'm Mohammed Nishad 👋
 
 I am a Cloud Support Engineer and DevOps professional based in Bangalore, India, with over 6 years of IT experience, including 2 years specializing in cloud infrastructure, automation, and virtualization. I specialize in building, deploying, and maintaining reliable systems.
