@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammed Nishad 👋
 
-I am a Cloud Support Engineer and DevOps professional based in Bangalore, India, with over 6 years of experience in cloud infrastructure, automation, and virtualization. I specialize in building, deploying, and maintaining reliable systems.
+I am a Cloud Support Engineer and DevOps professional based in Bangalore, India, with over 6 years of experience and 2 years experience in cloud infrastructure, automation, and virtualization. I specialize in building, deploying, and maintaining reliable systems.
 
 ## 🛠️ Tech Stack & Tools
 
