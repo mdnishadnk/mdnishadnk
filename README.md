@@ -34,7 +34,7 @@ I am a Cloud Support Engineer and DevOps professional based in Bangalore, India,
 
 ## 🌍 Let's Connect
 
-*   💼 [Connect with me on LinkedIn](#) <!-- www.linkedin.com/in/nishad8584 -->
+*   💼 [Connect with me on LinkedIn](#) www.linkedin.com/in/nishad8584<!-- www.linkedin.com/in/nishad8584 -->
 *   📧 Drop me an email at: er.nishadnk@gmail.com <!-- Replace with your actual email -->
 
 💬 Ask me about **AWS, Terraform, CI/CD pipelines, and Linux administration!**
