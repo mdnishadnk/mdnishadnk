@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="devops.png" alt="DevOps Tech Stack Banner" width="100%">
+  <img src="devops1.png" alt="DevOps Tech Stack Banner" width="100%">
 </div>
 
 # Hi there, I'm Mohammed Nishad 👋
